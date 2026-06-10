@@ -1,0 +1,6 @@
+bin/
+obj/
+preprocessed_ratings.csv
+*.user
+*.suo
+.vs/
